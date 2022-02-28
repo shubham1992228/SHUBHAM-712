@@ -139,10 +139,10 @@ en    English
 New languages, bug fixes and improvements following
 [our contribution guidelines](./CONTRIBUTING.md) are warmly welcomed!
 
-## 🛫 <a name="supports"></a>Supports
+## 🛫 <a name= https://github.com/AsmSafone/MusicPlayer/issues"supports"></a>Supports
 
-For any kind of help join [our support group](https://t.me/AsmSupport) or raise an [issue](https://github.com/AsmSafone/MusicPlayer/issues).
-
+For any kind of help join [our support group](https://t.me/AsmSupport) or raise an [issue](https://github.com/shubham1992228/SHUBHAM-712/edit/master/main.py).
+ 
 ## ✨ <a name="credits"></a>Credits
 
 - [Me](https://github.com/AsmSafone) for [Noting](https://github.com/AsmSafone/MusicPlayer) 😬
